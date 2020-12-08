@@ -2,7 +2,7 @@
 
 Code implementing machine learning algorithms at a fairly low level, for the purpose of understanding how they work. 
 
-*Trees* implements a decision tree regression. 
+*Trees* implements a decision tree regression algorithm. 
 
 *network_primitive* implements a basic neural network. 
 
